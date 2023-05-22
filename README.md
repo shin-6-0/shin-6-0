@@ -14,5 +14,5 @@
 
 ##### SNS
 <a href="https://cheerup313.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-lightgray?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://cheerup313.tistory.com/"/></a>
-<a href="mailto:cheerup313@naver.com"><img src="https://img.shields.io/badge/Email-success?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheerup313@naver.com"/></a>
+<a href="mailto:cheerup313@naver.com"><img src="https://img.shields.io/badge/Email-success?style=flat-square&logo=Naver&logoColor=white&link=mailto:cheerup313@naver.com"/></a>
 
