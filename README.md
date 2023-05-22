@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:96deda,100:50c9c3&height=250&section=header&text=Welcome%20Yukyung%20Github&fontSize=60)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshin-6-0%2Fhit-counter&count_bg=%23393938&title_bg=%2350C9C3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/shin-6-0)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshin-6-0%2Fhit-counter&count_bg=%23393938&title_bg=%2350C9C3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)(https://github.com/shin-6-0)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-6-0&show_icons=true&theme=vue)
 
@@ -14,5 +14,5 @@
 
 ##### SNS
 <a href="https://cheerup313.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-lightgray?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://cheerup313.tistory.com/"/></a>
-<a href="https://cheerup313.tistory.com/"><img src="https://img.shields.io/badge/Tistory Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://cheerup313.tistory.com/"/></a>  <a href="mailto:cheerup313@naver.com"><img src="https://img.shields.io/badge/Email-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheerup313@naver.com"/></a>
+<a href="mailto:cheerup313@naver.com"><img src="https://img.shields.io/badge/Email-success?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cheerup313@naver.com"/></a>
 
