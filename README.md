@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:96deda,100:50c9c3&height=250&section=header&text=Welcome%20Yukyung%20Github&fontSize=60)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshin-6-0%2Fhit-counter&count_bg=%23393938&title_bg=%2350C9C3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/shin-6-0) 
+<center>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshin-6-0%2Fhit-counter&count_bg=%23393938&title_bg=%2350C9C3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/shin-6-0) </center>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-6-0&show_icons=true&theme=vue)
