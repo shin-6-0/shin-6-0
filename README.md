@@ -19,6 +19,7 @@
 <a href="mailto:cheerup313@naver.com"><img src="https://img.shields.io/badge/Email-success?style=flat-square&logo=Naver&logoColor=white&link=mailto:cheerup313@naver.com"/></a>
 
 ##### etc
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-6-0&layout=compact)](https://github.com/shin-6-0/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=syk6715)](https://solved.ac/syk6715)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shin-6-0&layout=compact)](https://github.com/shin-6-0/github-readme-stats)
+
