@@ -1,10 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:96deda,100:50c9c3&height=250&section=header&text=%20Yukyung%20Github&fontSize=60)
-<div align=center>
+<div align=left>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshin-6-0%2Fhit-counter&count_bg=%23393938&title_bg=%2350C9C3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/shin-6-0)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shin-6-0&show_icons=true&theme=vue)
+
+### History
+🎓경희대학교 전자공학과 졸업 (2016.03 ~ 2021.02) <br>
+💻KH정보교육원 웹개발자 과정 수료 (2022.02 ~ 2022.09) <br>
+📃삼양데이타시스템에서 푸디스트 영업관리시스템 운영 (2023.01 ~ 2023.08)<br>
+💻포스코DX 청년IT전문가 아카데미 수료 (2023.08 ~ 2024.02)<br>
+📑포스코DX 웹 개발자 재직중 (2024.02 ~ )
 
 ### ⚡Tech Stack
 ##### Main
